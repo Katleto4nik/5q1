@@ -1,4 +1,4 @@
-name: build
+.github/workflows/name: build
 
 on:
   push:
